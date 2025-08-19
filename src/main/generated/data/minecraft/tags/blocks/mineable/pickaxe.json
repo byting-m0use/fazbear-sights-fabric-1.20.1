@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "fazbear-sights:tiled_floor_block",
+    "fazbear-sights:tiled_wall_block"
+  ]
+}

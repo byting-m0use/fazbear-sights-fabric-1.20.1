@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "fazbear-sights",
+	"version": "${version}",
+	"name": "Fazbear Sights",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/fazbear-sights/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"vermins.bytem0use.github.fs.FazbearSights"
+		],
+		"client": [
+			"vermins.bytem0use.github.fs.FazbearSightsClient"
+		],
+		"fabric-datagen": [
+			"vermins.bytem0use.github.fs.FazbearSightsDataGenerator"
+		]
+	},
+	"mixins": [
+		"fazbear-sights.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

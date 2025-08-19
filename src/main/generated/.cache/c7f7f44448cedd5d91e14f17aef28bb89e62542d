@@ -1,0 +1,7 @@
+// 1.20.1	2025-08-16T10:22:54.3879949	Fazbear Sights/Model Definitions
+9949e73c8a15bdc53f2950efc414c31e5e564d1f assets\fazbear-sights\models\item\tiled_floor_block.json
+2a97f7cc7af6584ceb2a557ec99dd79e6909fcc4 assets\fazbear-sights\models\block\tiled_wall_block.json
+38e5057650d7a879807138a9deef2f0c7d613a33 assets\fazbear-sights\blockstates\tiled_floor_block.json
+e59026b5cb62999fb80b793a41889052b73bcde4 assets\fazbear-sights\models\item\tiled_wall_block.json
+b266790990248405373e1df3716802f96ecc4d0a assets\fazbear-sights\models\block\tiled_floor_block.json
+cf842d69bcf580387190de19b51ca7db216b7cf7 assets\fazbear-sights\blockstates\tiled_wall_block.json

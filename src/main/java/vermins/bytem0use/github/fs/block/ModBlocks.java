@@ -23,6 +23,9 @@ public class ModBlocks {
         public static final Block TILED_WALL_BLOCK = registerBlock("tiled_wall_block",
             new Block(FabricBlockSettings.copyOf(Blocks.STONE).sounds(BlockSoundGroup.GLASS)));
 
+        public static final Block PEPPERONI_PIZZA = registerBlock("pepperoni_pizza",
+            new Block(FabricBlockSettings.copyOf(Blocks.CAKE).sounds(BlockSoundGroup.FUNGUS)));
+
 
             
 

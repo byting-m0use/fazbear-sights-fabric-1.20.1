@@ -26,6 +26,12 @@ public class ModBlocks {
         public static final Block PEPPERONI_PIZZA = registerBlock("pepperoni_pizza",
             new Block(FabricBlockSettings.copyOf(Blocks.CAKE).sounds(BlockSoundGroup.FUNGUS)));
 
+        public static final Block TILED_FLOOR_BLOCK_WHITE_RED = registerBlock("tiled_floor_block_white_red",
+            new Block(FabricBlockSettings.copyOf(Blocks.STONE).sounds(BlockSoundGroup.GLASS)));
+
+        public static final Block TILED_FLOOR_BLOCK_BLACK_RED = registerBlock("tiled_floor_block_black_red",
+            new Block(FabricBlockSettings.copyOf(Blocks.STONE).sounds(BlockSoundGroup.GLASS)));
+
 
             
 

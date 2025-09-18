@@ -1,7 +1,10 @@
-// 1.20.1	2025-08-16T10:22:54.3879949	Fazbear Sights/Model Definitions
-9949e73c8a15bdc53f2950efc414c31e5e564d1f assets\fazbear-sights\models\item\tiled_floor_block.json
-2a97f7cc7af6584ceb2a557ec99dd79e6909fcc4 assets\fazbear-sights\models\block\tiled_wall_block.json
-38e5057650d7a879807138a9deef2f0c7d613a33 assets\fazbear-sights\blockstates\tiled_floor_block.json
-e59026b5cb62999fb80b793a41889052b73bcde4 assets\fazbear-sights\models\item\tiled_wall_block.json
-b266790990248405373e1df3716802f96ecc4d0a assets\fazbear-sights\models\block\tiled_floor_block.json
-cf842d69bcf580387190de19b51ca7db216b7cf7 assets\fazbear-sights\blockstates\tiled_wall_block.json
+// 1.20.1	2025-09-14T21:28:07.5597282	Fazbear Sights/Model Definitions
+4dd98b97cbb46f748d1ae67794b99c7902598905 assets\fazbear_sights\blockstates\pepperoni_pizza.json
+a505e4ca8272867c9c8a95a75f21257199e6cf7b assets\fazbear_sights\models\item\tiled_wall_block.json
+f16b965513447407d49fbeb9cb442311e6feb224 assets\fazbear_sights\blockstates\tiled_wall_block.json
+848fd0abe3ed484b541ffaea49de085e24c07118 assets\fazbear_sights\models\item\pepperoni_pizza.json
+c8ded0b2dbcffb0123f7bea2ef89953b401ada96 assets\fazbear_sights\models\block\pepperoni_pizza.json
+16660defc4cb9bc046ba55cab3f4ba18bf4947cf assets\fazbear_sights\blockstates\tiled_floor_block.json
+3bb0411c10f40ce15ed5ac6de5f2ddf00c146909 assets\fazbear_sights\models\item\tiled_floor_block.json
+b0bb511609e678f034cf4455354e85bce4f48304 assets\fazbear_sights\models\block\tiled_wall_block.json
+ec49eb2daa4623114508013322c831eb8039b2da assets\fazbear_sights\models\block\tiled_floor_block.json

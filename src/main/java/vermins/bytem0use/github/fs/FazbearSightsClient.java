@@ -3,7 +3,7 @@ package vermins.bytem0use.github.fs;
 import net.fabricmc.api.ClientModInitializer;
 
 public class FazbearSightsClient implements ClientModInitializer {
-    public static final String MOD_ID = "fazbear-sights";
+    public static final String MOD_ID = "fazbear_sights";
 
     @Override
     public void onInitializeClient() {

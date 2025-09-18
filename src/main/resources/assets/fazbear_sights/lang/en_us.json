@@ -1,0 +1,7 @@
+{
+    "block.fazbear_sights.tiled_floor_block": "Tiled Floor Block",
+    "block.fazbear_sights.tiled_wall_block": "Tiled Wall Block",
+    "block.fazbear_sights.freddy_fazbear_cardboard_cutout": "Freddy Fazbear Cardboard Cutout",
+
+    "itemgroup.tiled_floor_block": "Fazbear Sights Blocks"
+}

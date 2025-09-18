@@ -18,6 +18,8 @@ public class ModItemGroup {
                         entries.add(ModBlocks.TILED_FLOOR_BLOCK);
                         entries.add(ModBlocks.FREDDY_FAZBEAR_CARDBOARD_CUTOUT);
                         entries.add(ModBlocks.TILED_WALL_BLOCK);
+                        entries.add(ModBlocks.TILED_FLOOR_BLOCK_BLACK_RED);
+                        entries.add(ModBlocks.TILED_FLOOR_BLOCK_WHITE_RED);
 
                     }).build());
 

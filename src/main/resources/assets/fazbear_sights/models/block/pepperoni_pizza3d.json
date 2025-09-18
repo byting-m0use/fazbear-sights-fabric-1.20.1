@@ -4,8 +4,8 @@
 	"parent": "pizza",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "blocks/pepperoni_pizza",
-		"particle": "pepperoni_pizza"
+		"0": "fazbear-sights:block/pepperoni_pizza3d",
+		"particle": "fazbear-sights:block/pepperoni_pizza3d"
 	},
 	"elements": [
 		{

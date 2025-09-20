@@ -32,6 +32,12 @@ public class ModBlocks {
         public static final Block TILED_FLOOR_BLOCK_BLACK_RED = registerBlock("tiled_floor_block_black_red",
             new Block(FabricBlockSettings.copyOf(Blocks.STONE).sounds(BlockSoundGroup.GLASS)));
 
+        public static final Block FNAF1_WALL_BLOCK = registerBlock("fnaf1_wall_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.STONE).sounds(BlockSoundGroup.GLASS)));
+
+        public static final Block FNAF1_WALL_PATTERN_BLOCK = registerBlock("fnaf1_wall_pattern_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.STONE).sounds(BlockSoundGroup.GLASS)));
+
 
             
 

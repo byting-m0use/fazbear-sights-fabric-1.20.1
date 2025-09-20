@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fazbear_sights:block/pepperoni_pizza"
+  }
+}

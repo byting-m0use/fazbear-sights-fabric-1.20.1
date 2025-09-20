@@ -16,6 +16,10 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.TILED_FLOOR_BLOCK);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.TILED_WALL_BLOCK);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.PEPPERONI_PIZZA);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.FNAF1_WALL_BLOCK);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.FNAF1_WALL_PATTERN_BLOCK);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.TILED_FLOOR_BLOCK_WHITE_RED);
+        blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.TILED_FLOOR_BLOCK_BLACK_RED);
     }
 
     @Override

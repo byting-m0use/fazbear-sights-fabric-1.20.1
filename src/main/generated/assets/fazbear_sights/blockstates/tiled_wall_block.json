@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fazbear_sights:block/tiled_wall_block"
+    }
+  }
+}

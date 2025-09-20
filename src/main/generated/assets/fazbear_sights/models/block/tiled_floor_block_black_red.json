@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fazbear_sights:block/tiled_floor_block_black_red"
+  }
+}

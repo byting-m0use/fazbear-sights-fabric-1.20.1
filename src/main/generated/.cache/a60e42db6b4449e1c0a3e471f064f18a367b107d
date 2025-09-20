@@ -1,6 +1,6 @@
-// 1.20.1	2025-08-16T10:22:54.4192422	Fazbear Sights/Tags for minecraft:block
+// 1.20.1	2025-09-19T23:19:27.7153709	Fazbear Sights/Tags for minecraft:block
 8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\fabric\tags\blocks\needs_tool_level_4.json
 8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_diamond_tool.json
-ba1932ec829a35c9e6b8b9d13cc8f1698036f4b3 data\minecraft\tags\blocks\needs_iron_tool.json
-5aa105ac2e55c561f104fc818a6bc7d42adeb554 data\minecraft\tags\blocks\mineable\pickaxe.json
-ba1932ec829a35c9e6b8b9d13cc8f1698036f4b3 data\minecraft\tags\blocks\needs_stone_tool.json
+92dfc317317a9e53a68cc76d8aa8952a4d8a4daa data\minecraft\tags\blocks\needs_iron_tool.json
+2cb05416d6f8f279a5ae8928c5ad22d9096799d2 data\minecraft\tags\blocks\mineable\pickaxe.json
+92dfc317317a9e53a68cc76d8aa8952a4d8a4daa data\minecraft\tags\blocks\needs_stone_tool.json

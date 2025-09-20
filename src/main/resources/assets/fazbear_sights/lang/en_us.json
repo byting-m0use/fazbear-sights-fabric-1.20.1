@@ -1,0 +1,11 @@
+{
+    "block.fazbear_sights.tiled_floor_block": "Tiled Floor Block",
+    "block.fazbear_sights.tiled_wall_block": "Tiled Wall Block",
+    "block.fazbear_sights.freddy_fazbear_cardboard_cutout": "Freddy Fazbear Cardboard Cutout",
+    "block.fazbear_sights.fnaf1_wall_block": "FNAF1 Wall Block",
+    "block.fazbear_sights.fnaf1_wall_pattern_block": "FNAF1 Patterned Wall Block",
+    "block.fazbear_sights.tiled_floor_block_red": "Tiled Floor Block Red",
+    "block.fazbear_sights.tiled_floor_block_white_red": "Tiled Floor Block White Red",
+
+    "itemgroup.tiled_floor_block": "Fazbear Sights Blocks"
+}

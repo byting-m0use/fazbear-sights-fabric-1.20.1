@@ -1,18 +1,18 @@
 {
 	"schemaVersion": 1,
-	"id": "fazbear-sights",
+	"id": "fazbear_sights",
 	"version": "${version}",
 	"name": "Fazbear Sights",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"ByteM0use"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/fazbear-sights/icon.png",
+	"icon": "assets/fazbear_sights/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
